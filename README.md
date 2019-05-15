@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# ReactCrud
+
+Description for application available on 
+https://appdividend.com/2018/11/11/react-crud-example-mern-stack-tutorial/#6_Setup_a_MongoDB_database
+
+Mongo DB tutorial 
+https://treehouse.github.io/installation-guides/mac/mongo-mac.html
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x-tarball/
+https://appdividend.com/2018/03/31/nosql-mongodb-tutorial-example/
+
